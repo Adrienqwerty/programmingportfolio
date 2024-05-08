@@ -9,7 +9,7 @@ Skyline High school Computer programming 1-2
 [Link to project](https://adrienqwerty.github.io/GroupeProjectNumberOne/)
 
 ## Individual Projects(2023-24)
-
+[Link to project](https://9721999.github.io/1v1-fight/)
 
 ### SpaceGame
 OOP graphical game with sound and keyboard/mouse listeners.
